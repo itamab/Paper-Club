@@ -14,4 +14,4 @@ LangMem memory manager is used to collect and track information given by the use
 
 ### Demo video
 
-![call_center_demo](https://www.youtube.com/watch?v=lAHxgmDdjVw)
+[![call_center_demo](youtube_clip.png)](https://youtu.be/lAHxgmDdjVw?si=KoQsRJB9J4JjIaq2)
