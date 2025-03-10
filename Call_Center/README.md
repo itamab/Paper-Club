@@ -11,3 +11,7 @@ LangMem memory manager is used to collect and track information given by the use
 ### Graph definition
 
 ![call_center_agent_graph.png](call_center_agent_graph.png)
+
+### Demo video
+
+![call_center_demo.mp4](call_center_demo.mp4)
