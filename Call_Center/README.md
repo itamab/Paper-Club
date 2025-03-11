@@ -20,6 +20,7 @@ LangMem memory manager is used to collect and track information given by the use
 
 - Whisper and Kokoro run locally on NVIDIA GeForce RTX 3060 12G with decent performance
 - An OpenAI API key is needed
+- Install ffmpeg for audio support: sudo apt install ffmpeg
 - Clone the project to a directory of your choice: git clone https://github.com/itamab/Paper-Club.git
 - Got to Call_Center directory: cd Paper-Club/Call_Center
 - Create a python enviroment: python3 -m venv /path/to/PythonEnvs/paper_club/call_center 
