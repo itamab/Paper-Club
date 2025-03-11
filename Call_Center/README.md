@@ -15,3 +15,13 @@ LangMem memory manager is used to collect and track information given by the use
 ### Demo video
 
 [![call_center_demo](youtube_clip.png)](https://youtu.be/lAHxgmDdjVw?si=KoQsRJB9J4JjIaq2)
+
+### Installation
+
+- Whisper and Kokoro run locally on NVIDIA GeForce RTX 3060 12G with decent performance
+- An OpenAI API key is needed
+- Clone the project to a directory of your choice: git clone https://github.com/itamab/Paper-Club.git
+- Got to Call_Center directory: cd Paper-Club/Call_Center
+- Create a python enviroment: python3 -m venv /path/to/PythonEnvs/paper_club/call_center 
+- Install requirements: /path/to/PythonEnvs/paper_club/call_center/bin/pip install -r requirements.txt
+- Run jupyter: /path/to/PythonEnvs/paper_club/call_center/bin/jupyter lab
